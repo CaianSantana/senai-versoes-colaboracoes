@@ -1,3 +1,3 @@
 # senai-versoes-colaboracoes
-sei não
+exemplo
 Lembrei do comando: git status
