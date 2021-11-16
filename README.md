@@ -1,3 +1,3 @@
 # senai-versoes-colaboracoes
 sei não
-lembrei do comando: git status
+Lembrei do comando: git status
